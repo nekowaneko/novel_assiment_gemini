@@ -5,5 +5,5 @@
 # ❗ 忽略包含 API Key、密碼等敏感資訊的文件 ❗
 .env
 test.ipynb
-.ipynb_checkpoints\test-checkpoint.ipynb
+.ipynb_checkpoints
 test.py
