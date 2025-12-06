@@ -1,0 +1,5 @@
+should send selected context when sending a message
+TypeError: mockState.actions.setSelectedChunkIds is not a function
+
+should clear selection after sending a message
+TypeError: mockState.actions.setSelectedChunkIds is not a function
